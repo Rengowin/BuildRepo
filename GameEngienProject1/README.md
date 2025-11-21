@@ -4,6 +4,7 @@ This repository contains the **playable build** of my solo Unity prototype, deve
 ## Download (Windows Build)
 **Latest Release:**  
 https://github.com/Rengowin/bWindeGameBuilds/releases/tag/Project1
+pw: ProgrammingIsFun
 
 The prototype is inspired by the looping gameplay concept from **Loop Hero**, but without roguelike mechanics or card systems. Instead, the game uses a simple upgrade-point system to increase player stats over time.
 
